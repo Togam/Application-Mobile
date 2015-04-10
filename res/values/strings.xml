@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AGRUR</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="AGRUR">AGRUR</string>
+    <string name="Adresse">Entrez une adresse</string>
+    <string name="Variete">Entrez une variété</string>
+    <string name="Superficie">Entrez une superficie plantée</string>
+    <string name="Arbres">Entrez le nombre d\'arbres par hectare</string>
+    <string name="Valider">Valider</string>
+
+</resources>
